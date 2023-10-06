@@ -1,7 +1,7 @@
 # 215_assignment0
 Xuan Zhou
-- goal 1
-- goal 2
-- goal 3
+- understand all the knowledges in this class.
+- actively solving the problem.
+- get a good GPA.
 <br>
 ice cream!
